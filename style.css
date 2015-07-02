@@ -1,0 +1,11 @@
+/* Main Styles */
+
+h1 {
+	font: sans-serif;
+	color: darkgrey;
+}
+
+#main {
+	width: 800px;
+	margin: 0 auto;
+}
